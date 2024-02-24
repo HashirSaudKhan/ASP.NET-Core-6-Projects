@@ -23,4 +23,6 @@ This project is a .NET Core 6 application that utilizes Microsoft SQL Server and
 - [.NET Core 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
+## Video LINK
+[Link to Video Folder on Google Drive](https://drive.google.com/drive/folders/1XCTj0rLegEmoBkBGMM_9IFETymoCOT5r)
 
