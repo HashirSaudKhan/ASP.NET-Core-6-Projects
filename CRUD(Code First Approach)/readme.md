@@ -1,4 +1,4 @@
-# Project Name
+# .NET CORE 6 (CRUD) using Code First Approach 
 
 ## Introduction
 
@@ -24,9 +24,4 @@ This project is a .NET Core 6 application that utilizes Microsoft SQL Server and
 - [.NET Core 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
